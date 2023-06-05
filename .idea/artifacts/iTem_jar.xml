@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="iTem:jar">
+    <output-path>$PROJECT_DIR$/../../../Minecraft/Plugin server 1.6.5 - Copy/plugins</output-path>
+    <root id="archive" name="iTem.jar">
+      <element id="module-output" name="iTem" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
